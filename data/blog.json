@@ -1,0 +1,185 @@
+{
+    "blogs": [
+      {
+        "blogID": 1,
+        "img": "images/blog/post-1.jpg",
+        "title": "MRI Scan: What You Need to Know Before Your Appointment",
+        "content": "An MRI scan uses powerful magnets and radio waves to create detailed images of your organs and tissues. It's painless and safe. Read on to understand how to prepare for your MRI scan at S.B. Diagnostics.",
+        "read_more": "#",
+        "category": "MRI",
+        "tags": ["MRI", "imaging", "diagnostics"]
+      },
+      {
+        "blogID": 2,
+        "img": "images/blog/post-2.jpg",
+        "title": "CT Scan: Fast and Accurate Diagnostic Tool",
+        "content": "CT scans combine X-ray images from different angles to produce cross-sectional views of your body. They help in quickly diagnosing internal injuries or diseases. Learn more about the CT scan process and benefits.",
+        "read_more": "#",
+        "category": "CT Scan",
+        "tags": ["CT scan", "imaging", "diagnostics"]
+      },
+      {
+        "blogID": 3,
+        "img": "images/blog/post-3.jpg",
+        "title": "3D/4D Ultrasound: See Your Baby Like Never Before",
+        "content": "3D/4D Ultrasounds provide live, detailed images of your unborn baby, allowing parents to see their baby's face and movements. Discover how these ultrasounds work and what to expect during your visit.",
+        "read_more": "#",
+        "category": "Ultrasound",
+        "tags": ["3D ultrasound", "4D ultrasound", "pregnancy"]
+      },
+      {
+        "blogID": 4,
+        "img": "images/blog/post-4.jpg",
+        "title": "Automatic Pathology: Accurate and Quick Blood Tests",
+        "content": "Automatic pathology tests provide accurate and fast results for blood tests. From checking your sugar levels to diagnosing infections, find out how our automatic pathology services can help you stay healthy.",
+        "read_more": "#",
+        "category": "Pathology",
+        "tags": ["blood test", "automatic pathology", "health checkup"]
+      },
+      {
+        "blogID": 5,
+        "img": "images/blog/post-5.jpg",
+        "title": "Digital X-ray: High-Quality Imaging for Accurate Diagnosis",
+        "content": "Digital X-rays provide clear images of your bones and tissues with less radiation. Learn how digital X-rays work and why they are better than traditional X-rays.",
+        "read_more": "#",
+        "category": "X-ray",
+        "tags": ["digital X-ray", "radiology", "imaging"]
+      },
+      {
+        "blogID": 6,
+        "img": "images/blog/post-6.jpg",
+        "title": "Digital Mammography: Early Detection of Breast Cancer",
+        "content": "Digital mammography is crucial for early detection of breast cancer. It uses low-dose X-rays to create detailed images of the breast. Understand the process and importance of regular mammograms.",
+        "read_more": "#",
+        "category": "Mammography",
+        "tags": ["digital mammography", "breast cancer", "women's health"]
+      },
+      {
+        "blogID": 7,
+        "img": "images/blog/post-1.jpg",
+        "title": "DEXA BMD: Measuring Bone Density Accurately",
+        "content": "DEXA BMD scans measure bone density and help diagnose osteoporosis. Discover how DEXA scans work and when you might need one.",
+        "read_more": "#",
+        "category": "DEXA BMD",
+        "tags": ["DEXA", "bone density", "osteoporosis"]
+      },
+      {
+        "blogID": 8,
+        "img": "images/blog/post-2.jpg",
+        "title": "Liver Fibroscan: Non-Invasive Test for Liver Health",
+        "content": "A liver fibroscan measures liver stiffness to assess liver health. It’s a non-invasive alternative to liver biopsy. Learn how this test can help detect liver issues early.",
+        "read_more": "#",
+        "category": "Liver Fibroscan",
+        "tags": ["liver fibroscan", "liver health", "non-invasive"]
+      },
+      {
+        "blogID": 9,
+        "img": "images/blog/post-3.jpg",
+        "title": "12-Lead ECG: Comprehensive Heart Health Monitoring",
+        "content": "A 12-lead ECG records the electrical activity of your heart and helps diagnose heart conditions. Understand how it works and why it’s important for your heart health.",
+        "read_more": "#",
+        "category": "ECG",
+        "tags": ["ECG", "heart health", "cardiology"]
+      },
+      {
+        "blogID": 10,
+        "img": "images/blog/post-4.jpg",
+        "title": "2D Echo: Detailed Heart Imaging",
+        "content": "A 2D echo uses sound waves to create images of your heart, helping doctors assess heart function and detect abnormalities. Learn about the procedure and its benefits.",
+        "read_more": "#",
+        "category": "2D Echo",
+        "tags": ["2D echo", "heart imaging", "cardiology"]
+      },
+      {
+        "blogID": 11,
+        "img": "images/blog/post-5.jpg",
+        "title": "How MRI Scans Help in Diagnosing Brain Disorders",
+        "content": "MRI scans provide detailed images of the brain, helping in the diagnosis of various brain disorders such as tumors, strokes, and multiple sclerosis. Find out how MRI scans work and why they are essential for brain health.",
+        "read_more": "#",
+        "category": "MRI",
+        "tags": ["MRI", "brain health", "neurology"]
+      },
+      {
+        "blogID": 12,
+        "img": "images/blog/post-6.jpg",
+        "title": "CT Scans in Emergency Situations: What to Expect",
+        "content": "CT scans are crucial in emergency situations, providing quick and accurate imaging to diagnose injuries or conditions like internal bleeding. Learn what happens during a CT scan in an emergency.",
+        "read_more": "#",
+        "category": "CT Scan",
+        "tags": ["CT scan", "emergency", "diagnostics"]
+      },
+      {
+        "blogID": 13,
+        "img": "images/blog/post-1.jpg",
+        "title": "Why Regular Ultrasounds Are Important During Pregnancy",
+        "content": "Regular ultrasounds during pregnancy help monitor the baby's development and detect any potential issues early. Understand the benefits of routine ultrasounds and what to expect at each stage of pregnancy.",
+        "read_more": "#",
+        "category": "Ultrasound",
+        "tags": ["ultrasound", "pregnancy", "baby health"]
+      },
+      {
+        "blogID": 14,
+        "img": "images/blog/post-2.jpg",
+        "title": "Understanding Pathology Reports: A Quick Guide",
+        "content": "Pathology reports can be complex, but they provide crucial information about your health. Learn how to read and understand your pathology report with this quick guide.",
+        "read_more": "#",
+        "category": "Pathology",
+        "tags": ["pathology", "health reports", "blood tests"]
+      },
+      {
+        "blogID": 15,
+        "img": "images/blog/post-3.jpg",
+        "title": "Digital X-rays vs. Traditional X-rays: Which is Better?",
+        "content": "Digital X-rays offer several advantages over traditional X-rays, including better image quality and lower radiation exposure. Find out why digital X-rays are becoming the preferred choice in medical imaging.",
+        "read_more": "#",
+        "category": "X-ray",
+        "tags": ["digital X-ray", "radiology", "technology"]
+      },
+      {
+        "blogID": 16,
+        "img": "images/blog/post-4.jpg",
+        "title": "Preparing for Your First Mammogram: What You Need to Know",
+        "content": "A mammogram can be a key tool in detecting breast cancer early. Learn how to prepare for your first mammogram and what to expect during the procedure.",
+        "read_more": "#",
+        "category": "Mammography",
+        "tags": ["mammogram", "breast cancer", "women's health"]
+      },
+      {
+        "blogID": 17,
+        "img": "images/blog/post-5.jpg",
+        "title": "How DEXA Scans Help in Diagnosing Osteoporosis",
+        "content": "DEXA scans measure bone density and are essential in diagnosing osteoporosis. Understand how DEXA scans work and why they are important for bone health.",
+        "read_more": "#",
+        "category": "DEXA BMD",
+        "tags": ["DEXA scan", "osteoporosis", "bone health"]
+      },
+      {
+        "blogID": 18,
+        "img": "images/blog/post-6.jpg",
+        "title": "The Role of Liver Fibroscan in Detecting Liver Diseases",
+        "content": "Liver fibroscan is a non-invasive test that helps in the early detection of liver diseases. Discover how this test works and its benefits over traditional liver biopsies.",
+        "read_more": "#",
+        "category": "Liver Fibroscan",
+        "tags": ["liver fibroscan", "liver diseases", "non-invasive testing"]
+      },
+      {
+        "blogID": 19,
+        "img": "images/blog/post-1.jpg",
+        "title": "Understanding 12-Lead ECG: A Complete Guide",
+        "content": "A 12-lead ECG is a comprehensive test that records the electrical activity of your heart. Learn how this test is conducted and how it helps in diagnosing heart conditions.",
+        "read_more": "#",
+        "category": "ECG",
+        "tags": ["12-lead ECG", "heart health", "cardiac diagnostics"]
+      },
+      {
+        "blogID": 20,
+        "img": "images/blog/post-2.jpg",
+        "title": "Benefits of 2D Echo in Evaluating Heart Function",
+        "content": "A 2D echo provides detailed images of your heart, allowing doctors to evaluate its function and detect abnormalities. Find out how 2D echo works and its importance in heart health.",
+        "read_more": "#",
+        "category": "2D Echo",
+        "tags": ["2D echo", "heart function", "cardiology"]
+      }
+    ]
+  }
+  

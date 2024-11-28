@@ -1,0 +1,59 @@
+{
+  "services": [
+    {
+      "name": "MRI Scan",
+      "image": "images/services/mri.png",
+      "paragraph": "Advanced imaging technique for detailed internal body scans.",
+      "points": ["Detailed imaging", "Non-invasive", "Diagnose medical conditions"],
+      "link": "services/mri-scan.html",
+      "title": "MRI Scans Shahjahanpur: Affordable & Detailed Imaging for Diagnosis",
+      "alt": "MRI Scan at SB Diagnostics in Shahjahanpur"
+    },
+    {
+      "name": "CT Scan",
+      "image": "images/services/ct-scan.png",
+      "paragraph": "Cross-sectional imaging for detailed views of internal structures.",
+      "points": ["Rapid imaging", "High resolution", "Detect abnormalities"],
+      "link": "services/ct-scan.html",
+      "title": "write the title for the MRI scan anchor tag",
+      "alt": "CT Scan Service at SB Diagnostics in Shahjahanpur"
+
+    },
+    {
+      "name": "3D/4D Ultrasound",
+      "image": "images/services/ultrasound.png",
+      "paragraph": "Advanced ultrasound technology for detailed fetal imaging.",
+      "points": ["Detailed fetal imaging", "Real-time visualization", "Monitor fetal development"],
+      "link": "services/3d-4d-ultrasound.html",
+      "title": "Affordable and High-Quality 3D/4D Ultrasound in Shahjahanpur for Detailed Imaging at SB Diagnostics",
+      "alt": "3D/4D Ultrasound at SB Diagnostics in Shahjahanpur"
+    },
+    {
+      "name": "Automatic Pathology",
+      "image": "images/services/microscope.png",
+      "paragraph": "Automated diagnostic tests for efficient disease detection.",
+      "points": ["Efficient diagnostics", "Automated testing", "Accurate results"],
+      "link": "services/pathology.html",
+      "title": "Affordable and Advanced Digital Pathology in Shahjahanpur for Accurate Results at SB Diagnostics",
+      "alt": "Automatic Pathology Lab at SB Diagnostics in Shahjahanpur"
+    },
+    {
+      "name": "Digital X-ray",
+      "image": "images/services/x-rays.png",
+      "paragraph": "Digital imaging for quick and accurate radiographic examinations.",
+      "points": ["Quick imaging", "Accurate results", "Minimal radiation exposure"],
+      "link": "services/digital-x-ray.html",
+      "title" : "Affordable and High-Quality Digital X-Ray in Shahjahanpur for Accurate Diagnosis at SB Diagnostics",
+      "alt": "Digital X-ray at SB Diagnostics in Shahjahanpur"
+    },
+    {
+      "name": "Digital Mammography",
+      "image": "images/services/mammography.png",
+      "paragraph": "Digital breast imaging for early detection of breast cancer.",
+      "points": ["Early cancer detection", "High-resolution images", "Comfortable procedure"],
+      "link": "services/digital-mammography.html",
+      "title": "Exclusive and Advanced Mammography in Shahjahanpur for Accurate Breast Screening at SB Diagnostics",
+      "alt": "Digital Mammography at SB Diagnostics in Shahjahanpur"
+    }
+  ]
+}
