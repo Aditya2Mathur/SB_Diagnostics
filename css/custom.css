@@ -6,7 +6,7 @@
 
 :root{
 	--body-background				: #FFF7F4;
-	--primary-color					: #FF7D29;
+	--primary-color					: linear-gradient(45deg, #FFBF78, #FF7D29);
 	--accent-color					: #393E46;
 	--transparent-color				: #ffffffe3;
 	--transparent-secondry-color	: #00000080;
@@ -626,7 +626,7 @@ header.main-header .header-sticky.active{
 
 .hero{
 	padding: 120px 0;
-	background: url('../images/half-circle-img.png') no-repeat bottom right 30px, var(--primary-color);
+	background: url('../images/half-circle-img.svg') no-repeat bottom right 30px, var(--primary-color);
 	position: relative;
 }
 
@@ -912,7 +912,7 @@ header.main-header .header-sticky.active{
 
 .medical-services{
 	padding: 50px 0 70px;
-	background: url('../images/half-circle-3.png');
+	background: url('../images/half-circle-3.svg');
 	background-repeat: no-repeat;
 	background-position: left top 60px;
 	position: relative;
@@ -1710,7 +1710,7 @@ header.main-header .header-sticky.active{
 	right: 0;
 	width: 300px;
 	height: 100%;
-	background: url('../images/half-circle-img.png') no-repeat 50% 100%;
+	background: url('../images/half-circle-img.svg') no-repeat 50% 100%;
 	background-size: 70% auto;
 	opacity: 1;
 }
@@ -1846,7 +1846,7 @@ header.main-header .header-sticky.active{
 
 .we-improving{
 	padding: 100px 0;
-	background: var(--primary-color) url('../images/half-circle-2.png') no-repeat center right;
+	background: var(--primary-color) url('../images/half-circle-2.svg') no-repeat center right;
 }
 
 .improving-content{
@@ -4292,7 +4292,7 @@ header.main-header .header-sticky.active{
 	}
 
 	.subpage-header::before{
-		background: url(../images/half-circle-img.png) no-repeat 80% 100%;
+		background: url(../images/half-circle-img.svg) no-repeat 80% 100%;
 		background-size: 60% auto;
 	}
 
