@@ -625,6 +625,7 @@ header.main-header .header-sticky.active{
 /************************************/
 
 .hero{
+	padding: 0;
 	background: url('../images/half-circle-img.svg') no-repeat bottom right 30px, var(--primary-color);
 	position: relative;
 }
