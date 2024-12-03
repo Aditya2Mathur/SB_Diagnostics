@@ -984,7 +984,7 @@ header.main-header .header-sticky.active{
 .medical-content h3{
 	font-size: 22px;
 	color: var(--primary-color);
-	text-transform: capitalize;
+	text-transform: capitalize; 
 	margin-bottom: 10px;
 }
 
