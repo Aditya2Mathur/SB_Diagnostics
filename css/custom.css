@@ -6,7 +6,7 @@
 
 :root{
 	--body-background				: #FFF7F4;
-	--primary-color					: linear-gradient(45deg, #FFBF78, #FF7D29);
+	--primary-color					: linear-gradient(305deg, #FFBF78, #FF7D29);
 	--accent-color					: #393E46;
 	--transparent-color				: #ffffffe3;
 	--transparent-secondry-color	: #00000080;
@@ -42,7 +42,7 @@ h4,
 h5,
 h6{
 	font-weight: 600;
-	color: var(--primary-color);
+	color: var(--text-color);
 	line-height: 1.1em;
 	margin :0;
 }
@@ -625,7 +625,6 @@ header.main-header .header-sticky.active{
 /************************************/
 
 .hero{
-	padding: 120px 0;
 	background: url('../images/half-circle-img.svg') no-repeat bottom right 30px, var(--primary-color);
 	position: relative;
 }
@@ -648,7 +647,7 @@ header.main-header .header-sticky.active{
 }
 
 .hero-content .section-title h3{
-	color: var(--secondry-color);
+	color: var(--accent-color);
 }
 
 .hero-content .section-title h1{
@@ -801,11 +800,9 @@ header.main-header .header-sticky.active{
 /************************************/
 /****	06. About Us Css		 ****/
 /************************************/
-
-.about-us{
-	padding: 50px 0;
+.page-about{
+	background: var(--primary-color);
 }
-
 .about-us-image{
 	position: relative;
     display: flex;
@@ -1254,7 +1251,7 @@ header.main-header .header-sticky.active{
 }
 
 .clients-testimonials .section-title h2{
-	color: var(--secondry-color);
+	color: var(--accent-color);
 }
 
 .testimonial-item{
@@ -1437,7 +1434,7 @@ header.main-header .header-sticky.active{
 
 .home-contact-form .section-title h3,
 .home-contact-form .section-title h2{
-	color: var(--secondry-color);
+	color: var(--accent-color);
 }
 
 .contact-appointment{
@@ -1768,10 +1765,6 @@ header.main-header .header-sticky.active{
 	color: inherit;
 }
 
-.page-about{
-	padding: 100px 0;
-}
-
 .page-services-item-content{
 	margin-right: 50px;
 }
@@ -1862,7 +1855,7 @@ header.main-header .header-sticky.active{
 }
 
 .improving-content .section-title h2{
-	color: var(--transparent-color);
+	color: var(--accent-color);
 }
 
 .improving-body ul li{
@@ -2284,13 +2277,6 @@ header.main-header .header-sticky.active{
 	color: var(--accent-color);
 }
 
-.meet-our-team.service-team{
-	padding: 50px 0;
-}
-
-.our-culture{
-	padding: 50px 0;
-}
 
 .our-culture .container-fluid{
 	padding: 0;
@@ -3366,7 +3352,7 @@ header.main-header .header-sticky.active{
 /****************************************/
 
 .error-page{
-	padding: 100px 0;
+	
 	text-align: center;
 }
 
@@ -3430,7 +3416,6 @@ header.main-header .header-sticky.active{
     }
 
     .hero{
-        padding: 60px 0;
 		background-size: 30% auto;
     }
 
@@ -3558,9 +3543,6 @@ header.main-header .header-sticky.active{
         font-size: 20px;
     }
 
-    .our-faqs{
-        padding: 50px 0;
-    }
 
     .faq-image{
         margin-bottom: 70px;
@@ -3695,10 +3677,6 @@ header.main-header .header-sticky.active{
 
 	.subpage-header-box ol li{
 		font-size: 16px;
-	}
-
-	.page-about{
-		padding: 50px 0;
 	}
 
 	.page-about-content{
@@ -3929,9 +3907,6 @@ header.main-header .header-sticky.active{
 		font-size: 26px;
 	}
 
-	.recent-post.our-blog{
-		padding: 50px 0;
-	}
 
 	.post-pagination{
         margin-top: 8px;
@@ -4096,13 +4071,6 @@ header.main-header .header-sticky.active{
         padding: 25px 0 20px;
     }
 
-	.faqs-page{
-        padding: 50px 0 25px;
-    }
-
-	.error-page{
-        padding: 50px 0;
-    }
 
     .error-page-heading h2{
         font-size: 38px;
