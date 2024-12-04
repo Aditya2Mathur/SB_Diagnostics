@@ -1,0 +1,6 @@
+
+# Allow all pages
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.sbdiagnostics.in/sitemap.xml
