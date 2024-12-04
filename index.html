@@ -132,45 +132,26 @@
 
 	<script type="application/ld+json">
 		{
-			"@context": "http://schema.org",
-			"@type": "webPage",
-			"inLanguage"      :"en-IN",
-			"name": "Dr. Subrat Gupta",
-			"url": "https://www.sbdiagnostics.in/radiologist-dr-subrat-gupta.html",
-			"jobTitle": "Radiologist",
-			"worksFor": {
-			  "@type": "MedicalOrganization",
-			  "name": "SB Diagnostics",
-			  "url": "https://www.sbdiagnostics.in"
-			},
-			"alumniOf": {
-			  "@type": "CollegeOrUniversity",
-			  "name": "Name of Medical School or University"
-			},
-			"address": {
-			  "@type": "PostalAddress",
-			  "streetAddress": "Kachcha Katra Rd",
-			  "addressLocality": "Shahjanpur",
-			  "addressRegion": "Uttar Pradesh",
-			  "postalCode": "242001",
-			  "addressCountry": "IN"
-			},
-			"contactPoint": {
-			  "@type": "ContactPoint",
-			  "telephone": "+91-1234567890",
-			  "contactType": "Customer Service",
-			  "availableLanguage": ["Hindi", "English"]
-			},
-			"sameAs": [
-			  "https://www.facebook.com/SBDiagnostics",
-			  "https://twitter.com/SBDiagnostics",
-			  "https://www.linkedin.com/company/SBDiagnostics"
-			],
-			"medicalSpecialty": "Radiology",
-			"knowsLanguage": ["Hindi", "English"]
-		  }
-		  
-	</script>
+		  "@context": "https://schema.org/", 
+		  "@type": "BreadcrumbList", 
+		  "itemListElement": [{
+			"@type": "ListItem", 
+			"position": 1, 
+			"name": "About Us",
+			"item": "https://www.sbdiagnostics.in/about.html"  
+		  },{
+			"@type": "ListItem", 
+			"position": 2, 
+			"name": "Services",
+			"item": "https://www.sbdiagnostics.in/services.html"  
+		  },{
+			"@type": "ListItem", 
+			"position": 3, 
+			"name": "Contact Us",
+			"item": "https://www.sbdiagnostics.in/contact.html"  
+		  }]
+		}
+		</script>
 	<!-- Meta Twitter Card Start -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="Best Diagnostics & Pathology in Shahjahanpur - SB Diagnostics">
