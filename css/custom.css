@@ -1704,7 +1704,7 @@ header.main-header .header-sticky.active {
 }
 
 .page-about {
-    padding: 100px 0
+    padding: 0 0;
 }
 
 .page-services-item-content {
@@ -3035,7 +3035,7 @@ header.main-header .header-sticky.active {
 
 .opening-hour-title h3 {
     font-size: 32px;
-    color: var(--text-color);
+    color: var(--primary-color);
     text-transform: capitalize
 }
 
@@ -3047,7 +3047,7 @@ header.main-header .header-sticky.active {
 
 .opening-hour-content ul li {
     font-size: 18px;
-    color: var(--text-color);
+    color: var(--primary-color);
     display: flex;
     margin-bottom: 30px
 }
@@ -3562,7 +3562,7 @@ header.main-header .header-sticky.active {
     }
 
     .page-about {
-        padding: 50px 0
+        padding: 0 0;
     }
 
     .page-about-content {
