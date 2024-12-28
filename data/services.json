@@ -47,13 +47,13 @@
       "alt": "Digital X-ray at SB Diagnostics in Shahjahanpur"
     },
     {
-      "name": "Digital Mammography",
-      "image": "images/services/mammography.png",
-      "paragraph": "Digital breast imaging for early detection of breast cancer.",
-      "points": ["Early cancer detection", "High-resolution images", "Comfortable procedure"],
-      "link": "services/digital-mammography.html",
-      "title": "Exclusive and Advanced Mammography in Shahjahanpur for Accurate Breast Screening at SB Diagnostics",
-      "alt": "Digital Mammography at SB Diagnostics in Shahjahanpur"
-    }
+      "name": "Dental Pathology",
+      "image": "images/services/dental-pathology.png",
+      "paragraph": "Expert dental diagnostic services to identify and treat oral health issues efficiently.",
+      "points": ["Precise dental tests", "Expert analysis", "Improved oral health"],
+      "link": "services/dental-pathology.html",
+      "title": "Accurate Dental Pathology Services in Shahjahanpur at SB Diagnostics for Healthy Teeth and Gums",
+      "alt": "Dental Pathology Services at SB Diagnostics in Shahjahanpur"
+    }    
   ]
 }
