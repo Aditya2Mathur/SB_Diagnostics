@@ -2,7 +2,7 @@
     "blogs": [
       {
         "blogID": 1,
-        "img": "images/blog/post-1.avif",
+        "img": "images/blog/post-1.png",
         "title": "MRI Scan: What You Need to Know Before Your Appointment",
         "content": "An MRI scan uses powerful magnets and radio waves to create detailed images of your organs and tissues. It's painless and safe. Read on to understand how to prepare for your MRI scan at S.B. Diagnostics.",
         "read_more": "./blogs/mri-scan-blog.html",
@@ -11,7 +11,7 @@
       },
       {
         "blogID": 2,
-        "img": "images/blog/post-2.avif",
+        "img": "images/blog/post-2.png",
         "title": "CT Scan: Fast and Accurate Diagnostic Tool",
         "content": "CT scans combine X-ray images from different angles to produce cross-sectional views of your body. They help in quickly diagnosing internal injuries or diseases. Learn more about the CT scan process and benefits.",
         "read_more":"./blogs/ct-scan-fast-accurate-diagnostic-tool.html",
@@ -20,7 +20,7 @@
       },
       {
         "blogID": 3,
-        "img": "images/blog/post-3.avif",
+        "img": "images/blog/post-3.png",
         "title": "3D/4D Ultrasound: See Your Baby Like Never Before",
         "content": "3D/4D Ultrasounds provide live, detailed images of your unborn baby, allowing parents to see their baby's face and movements. Discover how these ultrasounds work and what to expect during your visit.",
         "read_more": "./blogs/3d-4d-ultrasound-see-your-baby.html",
