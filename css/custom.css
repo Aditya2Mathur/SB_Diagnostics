@@ -1927,7 +1927,11 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 
 .services-item:hover .services-btn a {
-    color: var(--body-background)
+    color: var(--text-color);
+    border: 2px solid var(--accent-color);
+    background-color: var(--secondry-color);
+    padding: 5px 10px;
+    border-radius: 20px;
 }
 
 .services-btn a i {
